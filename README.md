@@ -3,7 +3,7 @@
 
 Basic one page website made with html and css. complete with working buttons in the Nav bar
 ## Screenshots
-![]
+https://github.com/kenymc1/Digital-Stars-6/issues/1#issue-516787771
 
 
 ## How to run
